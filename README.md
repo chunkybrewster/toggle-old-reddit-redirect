@@ -10,7 +10,9 @@ Toggle Old Reddit Redirect is compatible with Firefox, Chrome & Opera.
 
 The add on is currently under review by Firefox, Chrome & Opera. I will add links to install the add on if it is successfully accepted.
 
-This is my first browser add on that I've built. If you experience any issues or would like to suggest any improvements I could make, please add them to 'Issues' in the Github repository.
+This is my first browser add on that I've built. If you experience any issues or would like to suggest any improvements I could make, please add them to 'Issues' in the Github repository:
+
+[https://github.com/chunkybrewster/toggle-old-reddit-redirect](https://github.com/chunkybrewster/toggle-old-reddit-redirect)
 
 ## Licence
 
