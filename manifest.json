@@ -1,0 +1,35 @@
+{
+
+  "manifest_version": 2,
+  "name": "Toggle Old Reddit Redirect",
+  "version": "1.0",
+
+  "description": "Redirects www.reddit.com URLs to old.reddit.com. The redirect can be toggled on/off by clicking the toolbar icon.",
+
+  "icons": {
+    "48": "assets/icons/toggle-48.png",
+    "96": "assets/icons/toggle-96.png",
+    "128": "assets/icons/toggle-128.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "webRequest",
+    "webRequestBlocking",
+    "*://www.reddit.com/*",
+    "*://np.reddit.com/*",
+    "*://new.reddit.com/*"
+  ],
+
+  "browser_action": {
+    "default_icon": "assets/icons/toggle-32.png",
+    "default_title": "Toggle Old Reddit Redirect"
+  },
+
+  "background": {
+    "scripts": ["browser-polyfill.min.js", "background.js"]
+  }
+
+}
