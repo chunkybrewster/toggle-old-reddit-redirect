@@ -4,3 +4,11 @@ All notable changes to this project will be documented in this file.
 ## [1.0] - 05/07/2020
 ### Added
 - Initial build of the add on.
+
+## [1.1] - 12/07/2020
+### Added
+- New 64px x 64px icon.
+### Updated
+- Remove 'activeTabs' from the manifest.json permissions. It wasn't being used and was flagged during Chrome's review process.
+- Amend typo in README.md.
+- Add Firefox Add On link in README.md.
