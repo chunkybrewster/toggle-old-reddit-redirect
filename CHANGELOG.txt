@@ -12,3 +12,7 @@ All notable changes to this project will be documented in this file.
 - Remove 'activeTabs' from the manifest.json permissions. It wasn't being used and was flagged during Chrome's review process.
 - Amend typo in README.md.
 - Add Firefox Add On link in README.md.
+
+## [1.2] - 26/07/2020
+### Updated
+- Add Google Chrome extension link in README.md.
