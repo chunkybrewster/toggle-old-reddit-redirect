@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Toggle Old Reddit Redirect",
-  "version": "1.1",
+  "version": "1.2",
 
   "description": "Redirects www.reddit.com URLs to old.reddit.com. The redirect can be toggled on/off by clicking the toolbar icon.",
 
